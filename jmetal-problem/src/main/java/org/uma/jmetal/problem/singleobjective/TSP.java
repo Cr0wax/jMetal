@@ -14,7 +14,7 @@ import org.uma.jmetal.util.errorchecking.JMetalException;
 /**
  * Class representing a single-objective TSP (Traveling Salesman Problem) problem.
  * It accepts data files from TSPLIB:
- *   http://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/tsp/
+ *   http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/
  */
 @SuppressWarnings("serial")
 public class TSP extends AbstractIntegerPermutationProblem {
